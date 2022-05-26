@@ -99,8 +99,8 @@ PASSWORD = "your_pass"
 TAG_NAME = "SLA"
 
 # Template HOST NAME
-TPL_HOSTNAME = '{} |HostID={}|'
-TPL_GROUPNAME = '{} |GroupID={}|'
+TPL_HOSTNAME = '{} '
+TPL_GROUPNAME = '{} '
 
 # Open File Config
 scriptPath = os.path.dirname(__file__)
